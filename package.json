@@ -1,0 +1,25 @@
+{
+    "name": "restify-probe",
+    "version": "0.0.1",
+    "author": "Andrew Cherry <andrew@xyncro.com>",  
+    "description": "Tiny middleware to provide a probe handler.",
+    "contributors": [
+	{
+	    "name": "Andrew Cherry",
+	    "email": "andrew@xyncro.com"
+	}
+    ],    
+    "repository": {
+	"type": "git",
+	"url": "https://github.com/kolektiv/restify-probe.git"
+    },
+    "keywords": [
+	"restify",
+	"plugin",
+	"probe"
+    ],
+    "dependencies": {},
+    "devDependencies": {},
+    "optionalDependencies": {},
+    "license": "MIT"
+}
